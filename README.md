@@ -19,7 +19,7 @@ Both models demonstrated high accuracy in classifying credit card transactions. 
 ## Usage
 Clone the repository:
 
-Copy code
+Copy code:
 
 git clone https://github.com/Ishaansh7/credit-card-fraud-detection.git
 
