@@ -21,15 +21,12 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your_username/credit-card-fraud-detection.git
+git clone https://github.com/Ishaansh7/credit-card-fraud-detection.git
 Install the required dependencies:
 
 Copy code
 pip install -r requirements.txt
 Run the Jupyter notebook credit_card_fraud_detection.ipynb to train and evaluate the machine learning models.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 The dataset used in this project is sourced from Kaggle: Credit Card Fraud Detection
