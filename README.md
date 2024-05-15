@@ -19,14 +19,17 @@ Both models demonstrated high accuracy in classifying credit card transactions. 
 ## Usage
 Clone the repository:
 
-bash
 Copy code
+
 git clone https://github.com/Ishaansh7/credit-card-fraud-detection.git
+
 Install the required dependencies:
 
-Copy code
+Copy code:
+
 pip install -r requirements.txt
-Run the Jupyter notebook credit_card_fraud_detection.ipynb to train and evaluate the machine learning models.
+
+Run the Jupyter notebook main.ipynb to train and evaluate the machine learning models.
 
 ## Acknowledgements
 The dataset used in this project is sourced from Kaggle: Credit Card Fraud Detection
